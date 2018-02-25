@@ -10,7 +10,7 @@
 '''
 
 fromaddr = 'millionaire.trader8@gmail.com'
-toaddr = ['nschrein@nmu.edu', 'nateschreiner6@gmail.com']
+toaddr = ['', '']
 fromPass = ""
 
 #pip install requests
