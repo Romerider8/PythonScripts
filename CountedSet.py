@@ -1,3 +1,12 @@
+'''
+*
+*   Author: Nate Schriener 6/2017
+*
+*   Operation Overloading. Sends a Request to a URL and scrapes page.
+*   Returns the most common word found on that page. 
+*
+'''
+
 from functools import *
 from collections import Counter
 import collections
