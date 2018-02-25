@@ -10,8 +10,8 @@
 '''
 
 fromaddr = 'millionaire.trader8@gmail.com'
-toaddr = ['nschrein@nmu.edu', 'nateschreiner6@gmail.com']
-fromPass = "nathan8u"
+toaddr = ['', '']
+fromPass = ""
 
 #pip install requests
 import requests
